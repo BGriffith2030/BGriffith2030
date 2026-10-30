@@ -55,4 +55,3 @@ SOC Analyst · Cybersecurity Analyst · Security Operations Analyst · Informati
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/brandongriffith85/
-- Based in: Niagara Falls, New York
