@@ -1,327 +1,58 @@
 # Brandon Griffith
 
-## Cybersecurity Professional | Security Operations | Defensive Security
+**Cybersecurity Professional | Security Operations | Defensive Security**
 
-Welcome to my cybersecurity portfolio.
+Cybersecurity graduate and master's student focused on security operations: monitoring, detection, investigation, and vulnerability management. I build hands-on labs and defensive tools, and I document the work so it can be checked, not just claimed.
 
-I am building and documenting security operations capabilities through hands-on technical projects, security labs, and continuous development of defensive cybersecurity skills.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-4B275F?style=flat)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557799?style=flat&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607D8B?style=flat&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)
 
-My focus is applying cybersecurity principles to real-world enterprise environments through:
+## Featured Projects
 
-- Security monitoring
-- Threat identification
-- Vulnerability assessment
-- Incident response processes
-- Identity and access management
-- Network defense
-- System security administration
-- Security documentation
+| Project | What it demonstrates | Tools |
+| --- | --- | --- |
+| [Active Directory Domain Controller Lab](https://github.com/BGriffith2030/active-directory-domain-controller-lab) | Windows Server deployment, Active Directory, Group Policy hardening, and vulnerability assessment in a virtual lab | Windows Server, VirtualBox, Group Policy |
+| [Windows Event Investigation Lab](https://github.com/BGriffith2030/windows-event-investigation-lab) | Hunting failed logons, privilege use, and new service installs in Windows event logs, with a written investigation | Python, Windows Event Viewer |
+| [Network Discovery and Security Assessment Lab](https://github.com/BGriffith2030/network-discovery-security-assessment-lab) | Host discovery and service enumeration turned into a clear findings report | Nmap, Python |
+| [Vulnerability Management Report Lab](https://github.com/BGriffith2030/vulnerability-management-report-lab) | Turning raw scanner output into a prioritized remediation plan | Python, CVSS |
+| [File Integrity Monitor](https://github.com/BGriffith2030/file-integrity-monitor) | Baseline hashing and change detection for watched files | Python, SHA-256 |
 
-This portfolio demonstrates my ability to analyze, document, and improve security posture through practical application of cybersecurity concepts.
+## Security Operations Capabilities
 
----
+- **Security monitoring and analysis:** event review, investigation of suspicious activity, and documented findings
+- **Network defense:** TCP/IP, the OSI model, DNS, DHCP, discovery, and traffic analysis with Wireshark and Nmap
+- **Identity and access management:** Active Directory, Group Policy, and least privilege
+- **Vulnerability management:** scan review, severity prioritization, and remediation tracking
+- **Endpoint security:** Microsoft Defender, Windows Event Viewer, Windows 10/11, and Windows Server
 
-# Professional Summary
+## Education
 
-Cybersecurity professional with a foundation in information systems, cybersecurity, networking, and IT operations.
+- **M.S. Cybersecurity** — SUNY Polytechnic Institute (in progress)
+- **B.S. Cybersecurity** — SUNY Canton (2025)
+- **A.S. Computer Information Systems** — Niagara County Community College (2022)
 
-My approach to security is based on understanding how organizations protect critical systems through:
+## Certifications
 
-**People + Processes + Technology**
+- IBM Cybersecurity Professional Certificate
+- Google Technical Support Fundamentals
+- Python Programming Certificate — SUNY Buffalo State
+- C++ Programming Certificate — SUNY Buffalo State
 
-I focus on developing capabilities aligned with modern security operations teams, including:
+## Operating Principles
 
-- Monitoring and analyzing security events
-- Investigating suspicious activity
-- Understanding attack methods and defensive controls
-- Supporting secure system configuration
-- Documenting findings and recommendations
-- Improving organizational security awareness
+CIA Triad · Defense in Depth · Least Privilege · Continuous Monitoring
 
----
+## Career Focus
 
-# Cybersecurity Operating Principles
+SOC Analyst · Cybersecurity Analyst · Security Operations Analyst · Information Security Analyst · Vulnerability Analyst
 
-My security methodology is based on industry-recognized principles:
+## Connect
 
-## Confidentiality, Integrity, Availability (CIA Triad)
-
-Protecting:
-
-- Sensitive information
-- System reliability
-- Business-critical services
-
-## Defense in Depth
-
-Applying multiple layers of security controls:
-
-- Identity security
-- Endpoint protection
-- Network monitoring
-- Access controls
-- Security policies
-
-## Least Privilege
-
-Reducing risk by ensuring:
-
-- Appropriate access levels
-- Controlled permissions
-- Secure account management
-
-## Continuous Monitoring
-
-Improving visibility through:
-
-- Log analysis
-- Security events
-- System monitoring
-- Threat investigation
-
----
-
-# Education
-
-## Master of Science in Cybersecurity
-**SUNY Polytechnic Institute**  
-*In Progress*
-
-## Bachelor of Science in Cybersecurity
-**SUNY Canton**
-
-## Associate of Science in Computer Information Systems
-**Niagara County Community College**
-
----
-
-# Security Operations Capabilities
-
-## Security Monitoring & Analysis
-
-Developing experience with:
-
-- Security event investigation
-- Windows event analysis
-- Log review
-- Suspicious activity identification
-- Security documentation
-- Incident response workflows
-
----
-
-## Network Defense
-
-Knowledge and practical application of:
-
-- TCP/IP
-- OSI Model
-- DNS
-- DHCP
-- Network communication
-- Network discovery
-- Traffic analysis
-- Security assessment
-
-Tools:
-
-- Nmap
-- Wireshark
-
----
-
-## Identity & Access Management
-
-Experience developing skills with:
-
-- Active Directory environments
-- User account management
-- Authentication concepts
-- Authorization
-- Group policies
-- Access control principles
-
----
-
-## Endpoint Security
-
-Knowledge of:
-
-- Windows security controls
-- Linux security environments
-- System hardening concepts
-- Security monitoring
-- Vulnerability identification
-
----
-
-# Technical Skills
-
-## Security Tools
-
-- Wireshark
-- Nmap
-- Burp Suite
-- Metasploit
-- Microsoft Defender
-- Windows Event Viewer
-
-## Operating Systems
-
-- Windows 10/11
-- Windows Server
-- Kali Linux
-- Ubuntu Linux
-
-## Programming & Automation
-
-- Python
-- PowerShell
-- SQL
-
-Applications:
-
-- Security automation
-- Data analysis
-- Administrative scripting
-- Technical documentation
-
-## Virtualization
-
-- VMware
-- VirtualBox
-- Virtual security laboratories
-- Enterprise-style test environments
-
----
-
-# Security Projects & Labs
-
-## Active Directory Enterprise Security Lab
-
-Building an enterprise-style Windows environment focused on:
-
-- Domain administration
-- User and group management
-- Authentication security
-- Group Policy
-- Access control
-- Security auditing
-
-Skills demonstrated:
-
-Identity Management  
-Windows Administration  
-Security Configuration
-
----
-
-## Windows Security Event Investigation Lab
-
-Analyzing Windows security activity including:
-
-- Authentication events
-- Failed login attempts
-- Privileged activity
-- Suspicious behavior indicators
-
-Skills demonstrated:
-
-Log Analysis  
-Threat Detection  
-Incident Investigation
-
----
-
-## Network Discovery & Security Assessment Lab
-
-Performing network analysis using:
-
-- Nmap
-- Wireshark
-
-Activities include:
-
-- Network discovery
-- Service identification
-- Traffic analysis
-- Security documentation
-- Risk identification
-
-Skills demonstrated:
-
-Network Security  
-Reconnaissance  
-Security Assessment
-
----
-
-# Security Documentation
-
-I believe strong cybersecurity requires the ability to communicate findings clearly.
-
-My documentation focuses on:
-
-- Technical analysis
-- Investigation notes
-- Security findings
-- Risk descriptions
-- Recommended improvements
-
----
-
-# Certifications & Professional Development
-
-Completed:
-
-- Google Cybersecurity Professional Certificate
-- IBM Cybersecurity Certificate
-
-Continuing development through:
-
-- Advanced cybersecurity coursework
-- Security laboratories
-- Technical projects
-- Industry learning
-
----
-
-# Career Focus
-
-Building capabilities toward roles including:
-
-- SOC Analyst
-- Cybersecurity Analyst
-- Security Operations Analyst
-- Information Security Analyst
-- Vulnerability Analyst
-- Systems Administrator
-
----
-
-# Professional Mission
-
-My goal is to contribute to security teams by:
-
-- Increasing visibility into security events
-- Supporting threat detection efforts
-- Improving defensive security practices
-- Protecting organizational systems and data
-- Continuously developing technical expertise
-
----
-
-# Connect
-
-GitHub:
-https://github.com/BGriffith2030
-
-LinkedIn:
-https://www.linkedin.com/in/brandongriffith85/
-
-Based in:
-Niagara Falls, New York
-
----
-
-⭐ This portfolio represents my continued development of security operations capabilities through hands-on labs, technical documentation, and cybersecurity-focused projects.
+- LinkedIn: https://www.linkedin.com/in/brandongriffith85/
+- Based in: Niagara Falls, New York
