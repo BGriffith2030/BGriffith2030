@@ -55,3 +55,4 @@ SOC Analyst · Cybersecurity Analyst · Security Operations Analyst · Informati
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/brandongriffith85/
+- Based in: Grand Island, New York
